@@ -30,6 +30,6 @@ public class BlogPage extends Initialization
 		
 		Assert.assertEquals(acturalUrl, expectedURL);
 		
-		System.out.println("Expected URL verifie");
+		System.out.println("Expected URL verified");
 	}
 }
